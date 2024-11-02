@@ -45,3 +45,6 @@ Thumbs.db
 
 # Git specific
 .git/
+
+# main.js for running the code
+0-main.js
